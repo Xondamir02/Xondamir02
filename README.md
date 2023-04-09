@@ -3,14 +3,15 @@
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Xondamir02&theme=swift)](https://git.io/streak-stats)<br/>
+
+<p ><img src="https://github-readme-stats.vercel.app/api?username=xondamir02&show_icons=true&theme=swift" alt="Xondamir02 :: Profile Stats" /></p>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xondamir02&theme=swift)](https://github.com/xondamir02/)
  
 
 
 </div>
 
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xondamir02&show_icons=true&theme=swift" alt="Xondamir02 :: Profile Stats" /></p>
 
 ### ☕ Get in touch
 - LinkedIn: <a href = "https://www.linkedin.com/in/khondamir-akhmadjonov/">Xondamir Axmadjonov</a>
