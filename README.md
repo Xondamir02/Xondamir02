@@ -2,6 +2,8 @@
 <a href="https://github.com/pattisoj"><img alt="Typing SVG" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=25&duration=4500&color=BCB1F7&center=true&width=500&lines=Hi,+I'm+Khondamir+Akhmadjonov+👋;.Net+Enthusiast;Nice+to+meet+you!" /> </a> </p>
 <div align="center">
 
+[![](https://komarev.com/ghpvc/?username=Xondamir02&color=orange&label=Profile%20Views)](https://github.com/Xondamir02/Xondamir02)
+[![](https://img.shields.io/github/followers/Xondamir02?label=GitHub%20Followers)](https://github.com/Xondamir02)
 
  [![GitHub Streak](https://streak-stats.demolab.com?user=xondamir02&theme=swift&border_radius=5.1&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)<br/>
 
