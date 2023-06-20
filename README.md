@@ -16,7 +16,7 @@
 
 
   ### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/khondamir-akhmadjonov/">Xondamir Axmadjonov</a>
+- LinkedIn: <a href = "https://www.linkedin.com/in/khondamir-akhmadjonov-34598b251/">Xondamir Axmadjonov</a>
 - Telegram: <a href = "https://t.me/xon521">Xondamir</a>
 - Website: <a href = "https://xondamir.uz">Xondamir.uz</a>
 
