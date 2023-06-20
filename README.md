@@ -5,19 +5,29 @@
 [![](https://komarev.com/ghpvc/?username=Xondamir02&color=orange&label=Profile%20Views)](https://github.com/Xondamir02/Xondamir02)
 [![](https://img.shields.io/github/followers/Xondamir02?label=GitHub%20Followers)](https://github.com/Xondamir02)
 
- [![GitHub Streak](https://streak-stats.demolab.com?user=xondamir02&theme=swift&border_radius=5.1&date_format=%5BY%20%5DM%20j&mode=weekly)](https://git.io/streak-stats)<br/>
 
-<p ><img src="https://github-readme-stats.vercel.app/api?username=xondamir02&show_icons=true&theme=swift" alt="Xondamir02 :: Profile Stats" /></p>
+--------------------------
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xondamir02&theme=swift)](https://github.com/xondamir02/)
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=xondamir02&theme=swift)](https://github.com/xondamir02/)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xondamir02&text_color=black&text_bold=true&title_color=dark&bg_color=white&card_width=495px&hide=html,css)](https://github.com/xondamir02/)</div>
+
+
+
+  ### ☕ Get in touch
+- LinkedIn: <a href = "https://www.linkedin.com/in/khondamir-akhmadjonov/">Xondamir Axmadjonov</a>
+- Telegram: <a href = "https://t.me/xon521">Xondamir</a>
+- Website: <a href = "https://xondamir.uz">Xondamir.uz</a>
+
+
+<h1>🛠 Me Stack</h1>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=xondamir02&show_icons=true&theme=swift" alt="Xondamir :: Profile Stats" /></p>
+
  
 
 
 </div>
 
 
-### ☕ Get in touch
-- LinkedIn: <a href = "https://www.linkedin.com/in/khondamir-akhmadjonov/">Xondamir Axmadjonov</a>
-- Telegram: <a href = "https://t.me/xon521">Xondamir</a>
-- Website: <a href = "https://xondamir.uz">Xondamir.uz</a>
-<br>
+
